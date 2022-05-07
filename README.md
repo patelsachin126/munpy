@@ -16,4 +16,6 @@ Mobile U-Net Python (munpy) for Computer Vision Semantic Segmentation using Deep
 This software can be used for cancer cell image detection
 
 ### Healthcare
-This has use in cytology
+
+Histology is an important tool for cancer cell analysis. This software not has the potential to detect cancer cells generally, but also to classify subtypes of cancer and therefore the progression for prognotstic purposes.
+
